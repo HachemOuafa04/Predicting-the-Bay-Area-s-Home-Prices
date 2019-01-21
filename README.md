@@ -2,7 +2,7 @@
 
 #### Regression Analysis
 
-Regression Analysis is a type of supervised learning algorithms models, used for predicting continous response variables.
+Regression Analysis is a type of supervised learning algorithms, used for predicting continous response variables.
 The goal of regression analysis is to capture the real relationship between predictor variables and response variables.
 
 
